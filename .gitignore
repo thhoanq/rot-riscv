@@ -1,0 +1,5 @@
+build/
+build-setup.log
+build-sim/
+.metals/
+.vscode/
